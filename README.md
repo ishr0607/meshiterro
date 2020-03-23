@@ -1,1 +1,2 @@
-# meshiterro
+# DMM WEBCAMPコンテンツ
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させよう2の演習です。
